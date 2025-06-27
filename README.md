@@ -13,7 +13,9 @@ Department of Computer Science
 
 ### 🌱 Programming Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,cs,github,vscode," />
+
 ### 🌱 Other Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=unity" />
+
 ### 🌱 Studying Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=git,ai,premire" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=git,ai,premiere" />
