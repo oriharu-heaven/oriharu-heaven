@@ -12,7 +12,8 @@ Faculty of Systems Design
 Department of Computer Science
 
 ### 🌱 Programming Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,ts,nodejs,express,react,nextjs,sass,cs,cpp,dotnet,aws,git,github,vscode,webstorm" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,cs,github,vscode," />
 ### 🌱 Other Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=wordpress,ai,premire" />
-
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=unity" />
+### 🌱 Studying Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=git,ai,premire" />
