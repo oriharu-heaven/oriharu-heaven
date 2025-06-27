@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🌊 About Orishimo
+A Japanese University student.
+developer and designer.
 
-<!--
-**oriharu-heaven/oriharu-heaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏫 Schools
+Toin-Gakuen High School (2020-2021)
+Toin-Gakuen High School (2022,2024)
+Rham High School (2023)(United States)
 
-Here are some ideas to get you started:
+Tokyo Metropolitan University (2025-)
+Faculty of Systems Design
+Department of Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Programming Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,ts,nodejs,express,react,nextjs,sass,cs,cpp,dotnet,aws,git,github,vscode,webstorm" />
+### 🌱 Other Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=wordpress,ai,premire" />
+
