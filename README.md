@@ -3,7 +3,7 @@ A Japanese University student.
 developer and designer.
 
 ### 🏫 Schools
-**Toin-Gakuen High School** (2020-2021)
+**Toin-Gakuen Middle School** (2020-2021)
 
 **Toin-Gakuen High School** (2022,2024)
 
